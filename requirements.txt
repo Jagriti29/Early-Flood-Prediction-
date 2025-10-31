@@ -1,0 +1,51 @@
+# ===============================
+# Core Python Libraries
+# ===============================
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# ===============================
+# Geospatial & Mapping Libraries
+# ===============================
+geopandas
+shapely
+fiona
+pyproj
+rasterio
+contextily
+folium
+
+# ===============================
+# Deep Learning (optional, for model0.ipynb)
+# ===============================
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# ===============================
+# Utility & Preprocessing
+# ===============================
+tqdm
+joblib
+scipy
+requests
+beautifulsoup4
+
+# ===============================
+# Notebook & Visualization
+# ===============================
+jupyter
+notebook
+plotly
+ipywidgets
+
+# ===============================
+# File & Git Management
+# ===============================
+python-dotenv
+gitpython
